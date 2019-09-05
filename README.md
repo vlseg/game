@@ -1,4 +1,4 @@
-# scc_tz
+# Game
 
 ## Project setup
 ```
